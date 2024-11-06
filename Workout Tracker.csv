@@ -60,7 +60,7 @@ Date,Muscle,Exercise,Set 1,Set 2,Set 3,Set 4
 30/10/2024,Shoulders,Cable Lateral Raises,5.7*8,5.7*8,5.7*8,
 30/10/2024,Chest,Cable Flys,10.2*12,10.2*12,10.2*10,10.2*10
 30/10/2024,Triceps,Triceps Pushdown (dif),21*12,21*12,21*12,
-30/10/2024,Chest,Converging Chest Press,59*6,59*6,
+30/10/2024,Chest,Converging Chest Press,59*6,59*6,,
 01/11/2024,Back,Cable Pullover,21.6*12,21.6*12,21.6*10,
 01/11/2024,Biceps,Dumbbell Curls,18*12,18*10,18*10,
 01/11/2024,Back,Lateral Pulldowns,54.3*8,54.3*8,54.3*8,
@@ -73,6 +73,12 @@ Date,Muscle,Exercise,Set 1,Set 2,Set 3,Set 4
 03/11/2024,Quadriceps,Hack Squat,67*10,67*10,67*10,
 05/11/2024,Chest,Incline Smith Machine Press,50*10,50*9,50*8,50*7
 05/11/2024,Chest,Cable Flys,10.2*12,10.2*12,10.2*10,10.2*10
-05/11/2024,Shoulders,Cable Lateral Raises,5.7*10,5.7*9,5.7*8
+05/11/2024,Shoulders,Cable Lateral Raises,5.7*10,5.7*9,5.7*8,
 05/11/2024,Triceps,Triceps Pushdown,30*10,30*10,30*8,30*8
-05/11/2024,Chest,Converging Chest Press,59*8,59*8
+05/11/2024,Chest,Converging Chest Press,59*8,59*8,,
+06/11/2024,Back,Barbell Row,60*12,60*11,60*10,60*9
+06/11/2024,Biceps,Dumbbell Curls,18*14,18*12,18*10,
+06/11/2024,Back,Lateral Pulldowns,54.3*12,54.3*11,54.3*8,
+06/11/2024,Biceps,Arm Curl Machine,41*12,41*11,41*10,
+06/11/2024,Back,Cable Pullover diff,41*12,41*11,41*10,
+06/11/2024,Abs,26,20,18,,
