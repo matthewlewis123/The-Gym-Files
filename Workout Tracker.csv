@@ -1,84 +1,103 @@
-Date,Muscle,Exercise,Set 1,Set 2,Set 3,Set 4
-24/09/2024,Chest,Smith Machine Incline Bench,25*10,25*9,25*8,25*7
-24/09/2024,Shoulders,Dumbbell Lateral Raises,10*10,10*10,10*10,10*10
-24/09/2024,Triceps,French Dumbbell Press,22*12,22*10,22*8,22*8
-24/09/2024,Chest,Dumbbell Flys,12*8,12*8,12*8,
-26/09/2024,Biceps,Arm Curl Machine,41*10,41*10,41*8,41*8
-26/09/2024,Triceps,Triceps Pushdown,32*12,32*10,32*10,32*10
-26/09/2024,Biceps,Dumbbell Curls ,18*16,18*14,18*10,18*10
-26/09/2024,Triceps,Overhead Tricep Cable,32*12,32*10,32*10,32*10
-26/09/2024,Abs,Crunches,16,14,14,
-28/09/2024,Back,Lateral Pulldowns,66*10,66*9,66*8,66*8
-28/09/2024,Back,Barbell Row,60*8,60*10,60*8,60*8
-28/09/2024,Back,Cable Pullover,23.8*10,23.8*8,23.8*8,23.8*8
-28/09/2024,Back,Cable Row,52*10,52*8,52*7,
-29/09/2024,Hamstrings,RDL,110*6,110*6,110*6,
-29/09/2024,Calves,Seated Calf Raises,45*10,45*10,45*10,
-29/09/2024,Quadriceps,Hack Squat,67*10,67*12,72*10,67*10
-29/09/2024,Quadriceps,Leg Extensions,52*8,52*8,52*8,
-02/10/2024,Chest,Incline Dumbbell Press,28*10,28*8,28*8,28*6
-02/10/2024,Shoulders,Dumbbell Lateral Raises,10*12,10*10,10*10,10*10
-02/10/2024,Chest,Machine Flys,73*8,73*8,66*7,59*7
-02/10/2024,Triceps,Triceps Pushdown,34.3*10,34.3*8,34.3*8,32*7
-03/10/2024,Back,Barbell Row,60*12,60*11,60*10,60*8
-03/10/2024,Back,Lateral Pulldowns,66*10,66*8,66*7,66*8
-03/10/2024,Back,Cable Pullover,23.8*12,23.8*11,23.8*11,23.8*9
-03/10/2024,Abs,Crunches,18,14,14,
-05/10/2024,Hamstrings,RDL,110*8,110*7,110*6,
-05/10/2024,Calves,Seated Calf Raises,45*12,45*12,45*10,
-05/10/2024,Quadriceps,Hack Squat,72*10,72*10,72*9,72*9
-05/10/2024,Hamstrings,Prone Leg Curl,36*8,36*8,36*7,
-05/10/2024,Biceps,Arm Curl Machine,41*10,41*8,41*8,41*8
-09/10/2024,Chest,Incline Dumbbell Press,30*8,30*7,30*5,30*5
-09/10/2024,Shoulders,Dumbbell Lateral Raises,10*12,10*12,10*10,10*10
-09/10/2024,Chest,Machine Flys,73*8,66*7,73*6,
-09/10/2024,Triceps,Triceps Pushdown,34.3*10,34.3*8,34.3*8,
-11/10/2024,Back,Barbell Row,65*12,65*10,65*8,65*8
-11/10/2024,Back,Lateral Pulldowns,66*11,66*8,66*7,
-11/10/2024,Biceps,Arm Curl Machine,41*10,41*8,41*7,36*6
-11/10/2024,Back,Cable Pullover,26.1*10,26.1*9,26.1*7,
-11/10/2024,Abs,Crunches,18,14,14,
-13/10/2024,Quadriceps,Squat,100*8,100*8,100*8,
-13/10/2024,Hamstrings,RDL,110*8,110*6,110*5,
-13/10/2024,Calves,Seated Calf Raises,45*12,45*12,45*10,45*10
-13/10/2024,Hamstrings,Prone Leg Curl,36*10,36*8,36*8,
-16/10/2024,Chest,Incline Dumbbell Press,30*10,30*8,30*6,30*6
-16/10/2024,Chest,Dumbbell Lateral Raises,12*8,12*8,12*7,12*6
-16/10/2024,Chest,Machine Flys,73*10,73*8,66*7,
-16/10/2024,Chest,Triceps Pushdown,34.3*10,34.3*7,34.3*7,
-16/10/2024,Chest,Converging Chest Press,66*5,66*5,,
-18/10/2024,Back,Barbell Row,70*10,70*8,70*8,70*6
-18/10/2024,Back,Lateral Pulldowns,66*10,66*9,66*8,66*6
-18/10/2024,Biceps,Arm Curl Machine,41*12,41*8,41*6,36*6
-18/10/2024,Back,Cable Pullover,26.1*12,26.1*9,26.1*8,
-18/10/2024,Abs,Crunches,18,16,14,
-20/10/2024,Quadriceps,Leg Press,207*8,207*8,207*5,187*7
-20/10/2024,Calves,Seated Calf Raises,45*14,45*14,45*14,45*14
-20/10/2024,Hamstrings,RDL,120*6,120*6,120*5,100*4
-20/10/2024,Injury,Back Lower Left Pulled during final set of RDLs,,,,
-30/10/2024,Chest,Incline Smith Machine Press,50*7,50*7,50*6,50*5
-30/10/2024,Shoulders,Cable Lateral Raises,5.7*8,5.7*8,5.7*8,
-30/10/2024,Chest,Cable Flys,10.2*12,10.2*12,10.2*10,10.2*10
-30/10/2024,Triceps,Triceps Pushdown (dif),21*12,21*12,21*12,
-30/10/2024,Chest,Converging Chest Press,59*6,59*6,,
-01/11/2024,Back,Cable Pullover,21.6*12,21.6*12,21.6*10,
-01/11/2024,Biceps,Dumbbell Curls,18*12,18*10,18*10,
-01/11/2024,Back,Lateral Pulldowns,54.3*8,54.3*8,54.3*8,
-01/11/2024,Biceps,Arm Curl Machine,36*10,36*9,36*8,
-01/11/2024,Abs,Crunches,20,18,16,
-03/11/2024,Quadriceps,Leg Press,177*10,177*10,177*8,
-03/11/2024,Calves,Smith Machine Calves,40*12,40*11,40*11,40*10
-03/11/2024,Hamstrings,Seated Leg Curls,45*10,45*10,45*10,45*10
-03/11/2024,Calves,Calf Press,45*12,45*12,45*12,
-03/11/2024,Quadriceps,Hack Squat,67*10,67*10,67*10,
-05/11/2024,Chest,Incline Smith Machine Press,50*10,50*9,50*8,50*7
-05/11/2024,Chest,Cable Flys,10.2*12,10.2*12,10.2*10,10.2*10
-05/11/2024,Shoulders,Cable Lateral Raises,5.7*10,5.7*9,5.7*8,
-05/11/2024,Triceps,Triceps Pushdown,30*10,30*10,30*8,30*8
-05/11/2024,Chest,Converging Chest Press,59*8,59*8,,
-06/11/2024,Back,Barbell Row,60*12,60*11,60*10,60*9
-06/11/2024,Biceps,Dumbbell Curls,18*14,18*12,18*10,
-06/11/2024,Back,Lateral Pulldowns,54.3*12,54.3*11,54.3*8,
-06/11/2024,Biceps,Arm Curl Machine,41*12,41*11,41*10,
-06/11/2024,Back,Cable Pullover diff,41*12,41*11,41*10,
-06/11/2024,Abs,26,20,18,,
+Date,Muscle,Exercise,Set 1,Set 2,Set 3,Set 4,
+24/09/2024,Chest,Smith Machine Incline Bench,25*10,25*9,25*8,25*7,
+24/09/2024,Shoulders,Dumbbell Lateral Raises,10*10,10*10,10*10,10*10,
+24/09/2024,Triceps,French Dumbbell Press,22*12,22*10,22*8,22*8,
+24/09/2024,Chest,Dumbbell Flys,12*8,12*8,12*8,,
+26/09/2024,Biceps,Arm Curl Machine,41*10,41*10,41*8,41*8,
+26/09/2024,Triceps,Triceps Pushdown,32*12,32*10,32*10,32*10,
+26/09/2024,Biceps,Dumbbell Curls ,18*16,18*14,18*10,18*10,
+26/09/2024,Triceps,Overhead Tricep Cable,32*12,32*10,32*10,32*10,
+26/09/2024,Abs,Crunches,16,14,14,,
+28/09/2024,Back,Lateral Pulldowns,66*10,66*9,66*8,66*8,
+28/09/2024,Back,Barbell Row,60*8,60*10,60*8,60*8,
+28/09/2024,Back,Cable Pullover,23.8*10,23.8*8,23.8*8,23.8*8,
+28/09/2024,Back,Cable Row,52*10,52*8,52*7,,
+29/09/2024,Hamstrings,RDL,110*6,110*6,110*6,,
+29/09/2024,Calves,Seated Calf Raises,45*10,45*10,45*10,,
+29/09/2024,Quadriceps,Hack Squat,67*10,67*12,72*10,67*10,
+29/09/2024,Quadriceps,Leg Extensions,52*8,52*8,52*8,,
+02/10/2024,Chest,Incline Dumbbell Press,28*10,28*8,28*8,28*6,
+02/10/2024,Shoulders,Dumbbell Lateral Raises,10*12,10*10,10*10,10*10,
+02/10/2024,Chest,Machine Flys,73*8,73*8,66*7,59*7,
+02/10/2024,Triceps,Triceps Pushdown,34.3*10,34.3*8,34.3*8,32*7,
+03/10/2024,Back,Barbell Row,60*12,60*11,60*10,60*8,
+03/10/2024,Back,Lateral Pulldowns,66*10,66*8,66*7,66*8,
+03/10/2024,Back,Cable Pullover,23.8*12,23.8*11,23.8*11,23.8*9,
+03/10/2024,Abs,Crunches,18,14,14,,
+05/10/2024,Hamstrings,RDL,110*8,110*7,110*6,,
+05/10/2024,Calves,Seated Calf Raises,45*12,45*12,45*10,,
+05/10/2024,Quadriceps,Hack Squat,72*10,72*10,72*9,72*9,
+05/10/2024,Hamstrings,Prone Leg Curl,36*8,36*8,36*7,,
+05/10/2024,Biceps,Arm Curl Machine,41*10,41*8,41*8,41*8,
+09/10/2024,Chest,Incline Dumbbell Press,30*8,30*7,30*5,30*5,
+09/10/2024,Shoulders,Dumbbell Lateral Raises,10*12,10*12,10*10,10*10,
+09/10/2024,Chest,Machine Flys,73*8,66*7,73*6,,
+09/10/2024,Triceps,Triceps Pushdown,34.3*10,34.3*8,34.3*8,,
+11/10/2024,Back,Barbell Row,65*12,65*10,65*8,65*8,
+11/10/2024,Back,Lateral Pulldowns,66*11,66*8,66*7,,
+11/10/2024,Biceps,Arm Curl Machine,41*10,41*8,41*7,36*6,
+11/10/2024,Back,Cable Pullover,26.1*10,26.1*9,26.1*7,,
+11/10/2024,Abs,Crunches,18,14,14,,
+13/10/2024,Quadriceps,Squat,100*8,100*8,100*8,,
+13/10/2024,Hamstrings,RDL,110*8,110*6,110*5,,
+13/10/2024,Calves,Seated Calf Raises,45*12,45*12,45*10,45*10,
+13/10/2024,Hamstrings,Prone Leg Curl,36*10,36*8,36*8,,
+16/10/2024,Chest,Incline Dumbbell Press,30*10,30*8,30*6,30*6,
+16/10/2024,Chest,Dumbbell Lateral Raises,12*8,12*8,12*7,12*6,
+16/10/2024,Chest,Machine Flys,73*10,73*8,66*7,,
+16/10/2024,Chest,Triceps Pushdown,34.3*10,34.3*7,34.3*7,,
+16/10/2024,Chest,Converging Chest Press,66*5,66*5,,,
+18/10/2024,Back,Barbell Row,70*10,70*8,70*8,70*6,
+18/10/2024,Back,Lateral Pulldowns,66*10,66*9,66*8,66*6,
+18/10/2024,Biceps,Arm Curl Machine,41*12,41*8,41*6,36*6,
+18/10/2024,Back,Cable Pullover,26.1*12,26.1*9,26.1*8,,
+18/10/2024,Abs,Crunches,18,16,14,,
+20/10/2024,Quadriceps,Leg Press,207*8,207*8,207*5,187*7,
+20/10/2024,Calves,Seated Calf Raises,45*14,45*14,45*14,45*14,
+20/10/2024,Hamstrings,RDL,120*6,120*6,120*5,100*4,
+20/10/2024,Injury,Back Lower Left Pulled during final set of RDLs,,,,,
+30/10/2024,Chest,Incline Smith Machine Press,50*7,50*7,50*6,50*5,
+30/10/2024,Shoulders,Cable Lateral Raises,5.7*8,5.7*8,5.7*8,,
+30/10/2024,Chest,Cable Flys,10.2*12,10.2*12,10.2*10,10.2*10,
+30/10/2024,Triceps,Triceps Pushdown (dif),21*12,21*12,21*12,,
+30/10/2024,Chest,Converging Chest Press,59*6,59*6,,,
+01/11/2024,Back,Cable Pullover,21.6*12,21.6*12,21.6*10,,
+01/11/2024,Biceps,Dumbbell Curls,18*12,18*10,18*10,,
+01/11/2024,Back,Lateral Pulldowns,54.3*8,54.3*8,54.3*8,,
+01/11/2024,Biceps,Arm Curl Machine,36*10,36*9,36*8,,
+01/11/2024,Abs,Crunches,20,18,16,,
+03/11/2024,Quadriceps,Leg Press,177*10,177*10,177*8,,
+03/11/2024,Calves,Smith Machine Calves,40*12,40*11,40*11,40*10,
+03/11/2024,Hamstrings,Seated Leg Curls,45*10,45*10,45*10,45*10,
+03/11/2024,Calves,Calf Press,45*12,45*12,45*12,,
+03/11/2024,Quadriceps,Hack Squat,67*10,67*10,67*10,,
+05/11/2024,Chest,Incline Smith Machine Press,50*10,50*9,50*8,50*7,
+05/11/2024,Chest,Cable Flys,10.2*12,10.2*12,10.2*10,10.2*10,
+05/11/2024,Shoulders,Cable Lateral Raises,5.7*10,5.7*9,5.7*8,,
+05/11/2024,Triceps,Triceps Pushdown,30*10,30*10,30*8,30*8,
+05/11/2024,Chest,Converging Chest Press,59*8,59*8,,,
+06/11/2024,Back,Barbell Row,60*12,60*11,60*10,60*9,
+06/11/2024,Biceps,Dumbbell Curls,18*14,18*12,18*10,,
+06/11/2024,Back,Lateral Pulldowns,54.3*12,54.3*11,54.3*8,,
+06/11/2024,Biceps,Arm Curl Machine,41*12,41*11,41*10,,
+06/11/2024,Back,Cable Pullover diff,41*12,41*11,41*10,,
+06/11/2024,Abs,26,20,18,,,
+08/11/2024,Quadriceps,Squat,100*8,100*7,100*6,,
+08/11/2024,Calves,Calf Raises,75*12,75*10,75*10,,
+08/11/2024,Hamstrings,HS Hamstring Curls,30*11,30*11,30*9,,
+08/11/2024,Quadriceps,HS Single Leg Extension,30*12.1,40*8,40*8,,
+13/11/2024,Chest,Incline Dumbbell Press,30*9,30*7,30*6,30*5,
+13/11/2024,Shoulders,Dumbbell Lateral Raises,10*10,10*10,10*10,10*8,
+13/11/2024,Triceps,Triceps Pushdown,32*10,32*10,32*10,32*10,32*10
+13/11/2024,Chest,Machine Flys,73*7,66*7,66*6,,
+13/11/2024,Chest,Converging Chest Press,66*5,66*5,,,
+15/11/2024,Back,Lateral Pulldowns,59*12,59*10,59*9,59*8,
+15/11/2024,Back,Barbell Row,70*8,70*8,70*6,,
+15/11/2024,Biceps,Dumbbell Curls,18*16,18*14,18*12,,
+15/11/2024,Back,Cable Pullover diff,45*10,45*10,45*8,,
+15/11/2024,Biceps,Arm Curl Machine,41*10,41*8,41*6,,
+17/11/2024,Calves,Smith Machine Calves,45*15,45*13,45*11,45*11,
+17/11/2024,Quadriceps,Hack Squat,72*12,72*11,72*10,72*10,
+17/11/2024,Hamstrings,Seated Leg Curls,52*12,52*11,52*9,45*8,45*8
+17/11/2024,Calves,Calf Press,52*10,52*10,52*10,,
+17/11/2024,Abs,Knee Raises,16,12,12,10,
